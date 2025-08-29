@@ -1,27 +1,6 @@
 {
   "alunos": [
     {
-      "nome": "ricardo",
-      "idade": "20",
-      "sexo": "m",
-      "matricula": "13890",
-      "id": 12
-    },
-    {
-      "nome": "Summer",
-      "idade": "45",
-      "sexo": "m",
-      "matricula": "456789",
-      "id": 16
-    },
-    {
-      "nome": "joane",
-      "idade": "27",
-      "sexo": "fem",
-      "matricula": "45",
-      "id": 17
-    },
-    {
       "nome": "Miguel",
       "idade": "23",
       "sexo": "Masculino",
@@ -41,6 +20,47 @@
       "sexo": "f",
       "matricula": "45645",
       "id": 20
+    },
+    {
+      "nome": "joane",
+      "idade": "15",
+      "sexo": "fem",
+      "matricula": "20",
+      "id": 21
+    },
+    {
+      "nome": "joao",
+      "idade": "23",
+      "sexo": "masc",
+      "matricula": "2323",
+      "id": 22
+    },
+    {
+      "nome": "samuel",
+      "idade": "22",
+      "sexo": "m",
+      "matricula": "0909",
+      "id": 24
+    }
+  ],
+  "disciplinas": [
+    {
+      "nome": "Desenvolvimento Fullstack",
+      "curso": "ADS e cc",
+      "turno": "Noite",
+      "id": 1
+    },
+    {
+      "nome": "Cloud Computin",
+      "curso": "ADS e cc",
+      "turno": "Noite",
+      "id": 2
+    },
+    {
+      "nome": "Vr e VA",
+      "curso": "ADS",
+      "turno": "NOITE",
+      "id": 3
     }
   ]
 }
